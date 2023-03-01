@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Cuprum77&show_icons=true&theme=codeSTACKr&count_private=true&hide_rank=true&line_height=21">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cuprum77&layout=compact&theme=codeSTACKr&langs_count=6&hide=html,objective-c,logos,processing">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Cuprum77&show_icons=true&count_private=true&theme=codeSTACKr&count_private=true&hide_rank=true&line_height=21">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cuprum77&layout=compact&theme=codeSTACKr&langs_count=6&count_private=true&hide=html,objective-c,logos,processing">
 </div>
 <!--
 **Cuprum77/Cuprum77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
