@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Cuprum77&show_icons=true&count_private=true&title_color=ffa1ea&bg_color=ffffff&hide_border=true&count_private=false&hide_rank=true&include_all_commits=true&line_height=21">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Cuprum77&show_icons=true&count_private=true&title_color=ffa1ea&bg_color=ffffff&hide_border=true&count_private=true&hide_rank=true&include_all_commits=true&line_height=21">
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cuprum77&layout=compact&title_color=ffa1ea&bg_color=ffffff&hide_border=true&langs_count=10&count_private=true&include_all_commits=true&hide=html,objective-c,logos,processing">
 </div>
 <!--
